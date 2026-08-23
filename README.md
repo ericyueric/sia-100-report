@@ -10,7 +10,8 @@
 ├── data/
 │   └── sia_100_stats_public.json                    # 100个项目逐维评分与汇总统计（脚本产物）
 ├── evidence/
-│   └── evidence_public.md                           # 第三批61个项目逐条证据块 + 落选项目匿名记录
+│   ├── evidence_public.md                           # 第三批61个项目逐条证据块 + 落选项目匿名记录
+│   └── evidence_batch12.md                          # 第一/二批(39基线)逐条证据块（重新采集2026-08-23）
 └── charts/                                          # 报告全部图表源文件（PNG）
 ```
 
